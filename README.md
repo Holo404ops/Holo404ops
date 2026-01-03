@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there,👋   Welcome to my page 
 
 <!--
 **Holo404ops/Holo404ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hey there , I am Skanda Nadig from India, I am currently a student at Universirty of Southern Denmark, finishing my Masters in Electronics.
+I am very interested in working with Embedded applications, especially applying concepts of Machine learning on them.I am currently working on upskilling myself by working on projects related to the same.
+
+Skills: 
+Python, C/C++, Matlab & Simulink  
+
+- 🌱 I’m currently learning : Python for Machine learning 
+- 👯 I’m looking to collaborate on: Any interesting project/ fun task that can help me in the future
+- 📫 How to reach me: Skanda C Nadig( Facebook, Linkedin ) and holoc100(Instagram)
+  
